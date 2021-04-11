@@ -1,0 +1,32 @@
+﻿@model Nxt_Level_Fitness.Models.WeightWorkout
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Add new Workout </title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<div asp-validation-summary="All"></div>
+<body>
+    <form method="post">
+        Id:
+        <input asp-for="Id" />
+        <br />
+        WeightWorkouts:
+        <input asp-for="WeightWorkouts" />
+        <br />
+        Date:
+        <input asp-for="Date" type="date" />
+        <br />
+        Calories:
+        <input asp-for="Calories" />
+        <br />
+        Username:
+        <input asp-for="UserId" />
+        <br />
+
+        <input type="submit" value="Add Workout" class="btn-sm btn-primary"/>
+    </form>
+</body>
+</html>

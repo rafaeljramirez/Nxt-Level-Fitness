@@ -1,0 +1,16 @@
+﻿@model Nxt_Level_Fitness.Models.WeightWorkout
+
+<h1> Weight Workout Details</h1>
+<div asp-validation-summary="All"></div>
+Id: @Model.Id
+ <br />
+WeightWorkout: @Model.WeightWorkouts
+<br />
+Date: @Model.Date
+<br />
+Calories: @Model.Calories
+<br />
+UserId: @Model.UserId
+<br />
+
+<a asp-action="EditWeightWorkout" asp-route-id="10" class="btn btn-warning"> Edit </a>

@@ -1,0 +1,45 @@
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.exe
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.deps.json
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.runtimeconfig.json
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.dll
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.pdb
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.Views.dll
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp3.1\Nxt Level Fitness.Views.pdb
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.AssemblyInfo.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.RazorAssemblyInfo.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.RazorAssemblyInfo.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\Nxt Level Fitness.StaticWebAssets.Manifest.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\staticwebassets\Nxt Level Fitness.StaticWebAssets.xml
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Nxt Level Fitness.styles.css
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.TagHelpers.input.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.TagHelpers.output.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.RazorCoreGenerate.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.RazorTargetAssemblyInfo.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.RazorTargetAssemblyInfo.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.Views.pdb
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.dll
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.pdb
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.genruntimeconfig.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.csproj.CopyComplete
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Nxt Level Fitness.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact Us.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotPassword.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\Home\ForgotUsername.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\WeightWorkout\Add.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\WeightWorkout\WeightWorkoutDetails.cshtml.g.cs
+C:\Users\rafae\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp3.1\Razor\Views\WeightWorkout\EditWeightWorkout.cshtml.g.cs
